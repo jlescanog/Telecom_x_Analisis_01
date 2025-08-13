@@ -1,7 +1,7 @@
 # Telecom_x_Analisis_01
 
 ## Análisis de Evasión de Clientes (Churn) - Telecom X
-###📄 **Descripción del Proyecto**
+### 📄Descripción del Proyecto
 Este repositorio contiene el análisis de datos completo realizado para el proyecto "Churn de Clientes" de la empresa ficticia Telecom X. El objetivo principal es identificar los factores clave que influyen en la cancelación del servicio por parte de los clientes, utilizando un conjunto de datos en formato JSON.
 
 El análisis sigue un flujo de trabajo estructurado de ciencia de datos, desde la extracción y limpieza de los datos (ETL) hasta el análisis exploratorio (EDA) y la generación de conclusiones estratégicas para el negocio.
